@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manideep-003" alt="manideep-003" /></a> </p>
+<img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAd/developer.gif" alt="Developer GIF" align="right" width="300"/>
 
 - 🌱 I’m currently learning **Data Science** and **java with Dsa**
-<img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAd/developer.gif" alt="Developer GIF" align="right" width="300"/>
 - 📫 How to reach me **manideepbotsa@gmail.com**           
 - 📄 Know about my experiences **https://www.linkedin.com/in/manideep-botsa**  
 -  my resume [https://drive.google.com/file/d/1EFQq07WjlYdrf48zQDjs7Vk9FZiX9k76/view?usp=sharing](https://drive.google.com/file/d/1EFQq07WjlYdrf48zQDjs7Vk9FZiX9k76/view?usp=sharing)
